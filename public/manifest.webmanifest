@@ -1,0 +1,17 @@
+{
+  "name": "Yashfolio — Portfolio of Yash Gaikwad",
+  "short_name": "Yashfolio",
+  "description": "The portfolio of Yash Gaikwad, Software Developer. MERN, Python, Docker & Linux.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f0eee6",
+  "theme_color": "#7a3b2e",
+  "icons": [
+    {
+      "src": "/logo.png",
+      "sizes": "any",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
